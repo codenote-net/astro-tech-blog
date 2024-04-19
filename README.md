@@ -10,7 +10,6 @@ Explore the Astro.js Personal Blog Template – a sleek and feature-rich platfor
 - **Markdown Compatibility**: Streamlines content creation with easy formatting.
 - **Syntax Highlighting**: Enhances code snippet readability for tech enthusiasts.
 - **SEO-Optimized**: Includes a sitemap for optimal search engine visibility.
-- **Vercel Deployment:** preconfigured Vercel deployment & web analytics.
 - **Framework of your choice:** 100% Astro.js only template - choose your JS Framework (react preinstalled)
 
 Unlock a seamless blend of aesthetics and functionality to share your unique voice with the world.
@@ -25,7 +24,6 @@ Unlock a seamless blend of aesthetics and functionality to share your unique voi
 - @astrojs/react - https://docs.astro.build/en/guides/integrations-guide/react/
 - @astrojs/sitemap - https://docs.astro.build/en/guides/integrations-guide/sitemap/
 - @astrojs/rss - https://docs.astro.build/en/guides/rss/
-- @vercel/analytics - https://vercel.com/docs/analytics/
 - rehype-pretty-code - https://rehype-pretty-code.netlify.app/
 
 ## 🏛️ Template Structure
